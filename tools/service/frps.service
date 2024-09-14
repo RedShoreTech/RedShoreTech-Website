@@ -1,0 +1,13 @@
+[Unit]
+Description=frps service
+After=newtwork.target syslog.target
+Wants=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/frps/frps -c /usr/local/frps/frps.ini
+### && /usr/local/frps/frps -c /usr/local/frps/frps_1.ini
+
+[Install]
+WantedBy=multi-user.target
+
