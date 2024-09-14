@@ -4,7 +4,7 @@ Description=RedShoreTech WebSite
 [Service]
 User=root
 WorkingDirectory=/root/sites/redshore/
-ExecStart=/bin/bash -c 'hugo server --bind=0.0.0.0 -D -F'
+ExecStart=/bin/bash -c 'hugo server --bind=wumaseman.com -p 80 -D -F'
 # optional items below
 Restart=always
 RestartSec=2
