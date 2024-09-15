@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:80/posts/my-first-post/</loc>
+    <loc>//redshore.space:80/posts/my-first-post/</loc>
     <lastmod>2024-09-14T01:58:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:80/posts/</loc>
+    <loc>//redshore.space:80/posts/</loc>
     <lastmod>2024-09-14T01:58:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:80/</loc>
+    <loc>//redshore.space:80/</loc>
     <lastmod>2024-09-14T01:58:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:80/categories/</loc>
+    <loc>//redshore.space:80/categories/</loc>
   </url><url>
-    <loc>http://localhost:80/tags/</loc>
+    <loc>//redshore.space:80/tags/</loc>
   </url>
 </urlset>

@@ -1,5 +1,5 @@
 baseURL = 'http://redshore.space/'
 languageCode = 'en-us'
 title = 'RedShore Tech'
-##theme = 'lightbi-hugo'
-theme = 'ananke'
+theme = 'lightbi-hugo'
+##theme = 'ananke'
