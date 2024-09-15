@@ -1,4 +1,5 @@
-baseURL = 'http://wumaseman.com/'
+baseURL = 'http://redshore.space/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'RedShore Tech'
+##theme = 'lightbi-hugo'
 theme = 'ananke'

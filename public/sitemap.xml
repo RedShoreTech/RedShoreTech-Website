@@ -5,10 +5,10 @@
     <loc>http://localhost:80/posts/my-first-post/</loc>
     <lastmod>2024-09-14T01:58:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:80/</loc>
+    <loc>http://localhost:80/posts/</loc>
     <lastmod>2024-09-14T01:58:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:80/posts/</loc>
+    <loc>http://localhost:80/</loc>
     <lastmod>2024-09-14T01:58:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:80/categories/</loc>
