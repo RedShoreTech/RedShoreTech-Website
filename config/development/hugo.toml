@@ -1,4 +1,5 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+##baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = 'http://redshore.space/'
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 defaultContentLanguageInSubdir = true
@@ -39,9 +40,9 @@ lunrSearch = true
 previewCardImagePlacement = "bottom"
 
 [Params.Author]
-  name = "Bino Kochumol Varghese"
-  website = "https://www.binovarghese.com/"
-  authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
+  name = "Don Chiu"
+  website = "http://redshore.space/"
+  authorInfo = "iOS developer with 9+ years of experience"
   authorPostImage = "/img/author-post-img.jpg"
 
 
