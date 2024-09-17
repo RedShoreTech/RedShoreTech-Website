@@ -2,16 +2,8 @@
 type : "tags"
 layout : "about"
 title: "About me"
-avatar: "/images/about.jpg"
-portrait: "/images/ljj.jpg"
+avatar: "/img/author-post-img.jpg"
+portrait: "/img/author-portrait.jpg"
 ---
 
-I am not Bino Kochumol Varghese.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-
-
-
+An iOS developer with 9+ years of practical experience in both general iOS/Android app development and Computer Vision/Graphics.

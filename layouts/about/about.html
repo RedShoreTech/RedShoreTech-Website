@@ -4,13 +4,13 @@
   <div class="container">
     <div class="row flex-lg-row-reverse align-items-center">
       <div class="col-md-8 col-lg-4">
-        {{ $image := .Resources.Get .Params.portrait }}
-        <img src="{{ $image.RelPermalink }}" alt="Image of Bino Kochumol Varghese"
+        {{ $image := resources.Get .Params.portrait }}
+        <img src="{{ $image.RelPermalink }}" alt="Image of the author"
           class="dd-block mx-lg-auto img-fluid img-rounded img-80">
       </div>
       <div class="col-md-8 col-lg-8">
         <div class="col-12">
-          Here is the content
+          {{ .Content }}
         </div>
       </div>
     </div>
