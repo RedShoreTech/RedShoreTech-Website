@@ -4,7 +4,7 @@ DefaultContentLanguage = "en"
 languageCode = "en-us"
 defaultContentLanguageInSubdir = true
 title = "Lightbi"
-theme = "lightbi-hugo"
+## theme = "lightbi-hugo"
 summaryLength  = "30"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -42,7 +42,7 @@ previewCardImagePlacement = "bottom"
 [Params.Author]
   name = "Don Chiu"
   website = "http://redshore.space/"
-  authorInfo = "iOS developer with 9+ years of experience"
+  authorInfo = "Mobile software(iOS/Android) developer with 9+ years of experience"
   authorPostImage = "/img/author-post-img.jpg"
 
 
