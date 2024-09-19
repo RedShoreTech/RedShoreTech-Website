@@ -24,7 +24,7 @@ The app controls your “MADV360 / Mi Sphere Camera” to take 360-degree panora
 - Collaborate with the firmware and CV research team in working out some distinguishing features such like auto video stabilization
 
 ``` ```
-### Tech Set
+### Tech Stack
 OpenGL(ES), GLSL, GPUImage, TCP/IP socket, CoreData/SQLite, AFNetworking, UIKit, React Native, AVFoundation, CoreMotion, CoreVideo, CoreAudio, CoreGraphics, OpenCV, Mesa
 
 ``` ```

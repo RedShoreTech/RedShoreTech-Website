@@ -24,7 +24,7 @@ The app is basically controlled by user’s voice:
 - Integrate a 3rd-party **ASR(Automatic Speech Recognition)** library into the app for the speech control function
 
 ``` ```
-### Tech Sets
+### Tech Stack
 OpenGL(ES), ASR(Automatic Speech Recognition, with 3rd-party library), UIKit, CoreGraphics
 
 ``` ```
