@@ -1,7 +1,7 @@
 ---
 title: ShaderWall (Enhanced Shadertoy iOS App)
 date: 2024-09-16
-tags: ["iOS","app","download","portfolio"]
+tags: ["iOS","app","download","portfolio","opengl","opengles","c++","glsl","afnetworking","uikit","avfoundation","coregraphics","restful api","sqlite","coredata"]
 image : "images/shaderwall.png"
 video : "videos/shadertoy-userguide-en.mov"
 Description  : "An iOS app for showing Shadertoy.com shaders with pure native OpenGL(ES) & GLSL..."

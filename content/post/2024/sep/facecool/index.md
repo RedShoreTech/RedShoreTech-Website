@@ -1,7 +1,7 @@
 ---
 title: FaceCool
 date: 2024-09-13
-tags: ["iOS","app","download","portfolio"]
+tags: ["iOS","app","download","portfolio","face recognition","facial recognition","opencv","ncnn","vision","mlkit","machine learning","ai","artificial intelligence","coregraphics"]
 image : "images/facecool.png"
 Description  : "An iOS facial recognition app using a library ported from Android implemented with NCNN and OpenCV..."
 ---

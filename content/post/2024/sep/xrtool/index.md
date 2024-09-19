@@ -1,7 +1,7 @@
 ---
 title: XRTool
 date: 2024-09-12
-tags: ["iOS","app","download","portfolio"]
+tags: ["iOS","app","download","portfolio","metal","mps","coremotion","pointcloud","eigen3","arkit","realitykit","usdz","swiftui","uikit","opencv"]
 image : "images/xrtool.png"
 video : "videos/xrtool-scrcap-1.mp4"
 Description  : "A real-time 3D point cloud registration(matching) algorithm library for iOS, combining the 3D point cloud captured from LiDAR and movement information captured from CoreMotion..."

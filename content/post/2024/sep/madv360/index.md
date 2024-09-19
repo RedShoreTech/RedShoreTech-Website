@@ -1,7 +1,7 @@
 ---
 title: MADVenture 360 (Mi Sphere Camera) APP
 date: 2024-09-15
-tags: ["iOS","app","download","portfolio"]
+tags: ["iOS","app","download","portfolio","opengl","opengles","c++","ndk","rtsp","tcp/ip","coredata","afnetworking","uikit","avfoundation","coremotion","corevideo","coreaudio","coregraphics","opencv","mesalib"]
 image : "images/madv360_rounded.png"
 Description  : "The app controls your “MADV360 / Mi Sphere Camera” to take 360-degree panoramic videos and photos..."
 ---

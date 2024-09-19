@@ -1,7 +1,7 @@
 ---
 title: Clash Royale Assistant
 date: 2024-09-14
-tags: ["iOS","app","download","portfolio"]
+tags: ["iOS","app","download","portfolio","game","asr","speech recognition", "clash royale", "opengl", "opengles", "c++", "ndk"]
 image : "images/crassistant_rounded.png"
 Description  : "As a ‘Clash Royale’ fan, I was always wishing that I could be aware of what cards are in my opponent’s hands at any moment in a game. So I designed and created this app..."
 ---
