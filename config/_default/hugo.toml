@@ -1,5 +1,97 @@
+##baseURL = "https://lightbi-hugo-theme.netlify.app/"
 baseURL = 'http://redshore.space/'
-languageCode = 'en-us'
-title = 'RedShore Tech'
-theme = 'lightbi-hugo'
-##theme = 'ananke'
+DefaultContentLanguage = "en"
+languageCode = "en-us"
+defaultContentLanguageInSubdir = true
+title = "Red Shore Tech"
+theme = "lightbi-hugo"
+summaryLength  = "30"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+enableRobotsTXT = true
+enableGitInfo = false
+Paginate = 6
+
+[Params]
+selfHosted = true
+mainSections = ["post","posts"]
+dateFormat = "02 January 2006"
+comments = false
+readingTime = false
+wordCount = false
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true 
+gcse = false
+Lastmod = false
+rss = true 
+pagination = "10"
+hideAuthor = false
+description="Your can add your website description here."
+lunrSearch = true
+previewCardImagePlacement = "bottom"
+
+[Params.Author]
+  name = "Don Chiu"
+  website = "http://redshore.space/"
+  authorInfo = "Mobile software(iOS/Android) developer with 9+ years of experience"
+  authorPostImage = "/img/author-post-img.jpg"
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[Author]
+  website = "https://binovarghese.com"
+  facebook = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  twitter = "username"
+  linkedin = "username"
+  github = "username"
+  threads = "username"
+  gitlab = "username"
+  reddit = "username"
+  stackoverflow = "users/XXXXXXX/username"
+  snapchat = "username"
+  spotify = "username"
+  paypal = "username"
+  telegram = "username"
+  mastodon = "url"
+  slack = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #500px = "username"
+  #kaggle = "username"
+  #weibo = "username"
+  #xing = "username"
+  #bitbucket = "username"
+  #soundcloud = "username"
+  # codepen = "username"
+
+[menus]
+    [[menus.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+  
+    [[menus.main]]
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
+    
+    [[menus.main]]
+        name = "About"
+        url = "/about/"
+        weight = 5
